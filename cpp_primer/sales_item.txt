@@ -1,0 +1,8 @@
+isbn_1 2 20 
+isbn_1 2 20 
+isbn_1 2 20 
+isbn_3 2 30 
+isbn_3 2 30 
+isbn_5 2 50 
+isbn_5 2 50 
+isbn_6 2 60 
